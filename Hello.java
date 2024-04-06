@@ -12,6 +12,6 @@ public class Exemple {
     
     public void afficherMessage() {
         
-        System.out.println("Bonjour");
+        System.out.println("Bonjour ou bonsoir");
     }
 }
